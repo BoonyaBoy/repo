@@ -1,1 +1,3 @@
 My first attempt to create my own repo
+
+Putting in an edit of uploaded file. The file was previously git init initialized.
